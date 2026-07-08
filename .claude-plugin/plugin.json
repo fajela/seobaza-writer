@@ -1,0 +1,11 @@
+{
+  "name": "seobaza-writer",
+  "description": "Пише український SEO-контент у стилі SEO Baza: новини, аналітичні статті, п'ятничні дайджести, серіали, гайди + пости для Telegram, Facebook, LinkedIn, Instagram і Threads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SEO Baza",
+    "url": "https://seobaza.com.ua"
+  },
+  "homepage": "https://seobaza.com.ua",
+  "keywords": ["seo", "ukrainian", "writing", "content", "seobaza"]
+}

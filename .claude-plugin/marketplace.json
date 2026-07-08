@@ -1,0 +1,14 @@
+{
+  "name": "seobaza",
+  "owner": {
+    "name": "SEO Baza",
+    "url": "https://seobaza.com.ua"
+  },
+  "plugins": [
+    {
+      "name": "seobaza-writer",
+      "source": "./",
+      "description": "Пише український SEO-контент у стилі SEO Baza: новини, статті, дайджести, серіали, гайди + пости для соцмереж."
+    }
+  ]
+}
